@@ -18,6 +18,6 @@ sebuah program sederhana untuk mengubah tinggi dari sebuah input secara otomatis
 
 ![image](https://github.com/candradwicahyo/auto-resize-textarea/blob/master/image.jpg)
 
-[tekan link ini untuk mencoba program ini](https://candradwicahyo/auto-resize-textarea)
+[tekan link ini untuk mencoba program ini](https://candradwicahyo.github.io/auto-resize-textarea)
 
 > dibuat oleh **candra dwi cahyo**
